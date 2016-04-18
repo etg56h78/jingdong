@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+}
+.sanloucx{
+	width: 880px;
+	height: 475px;
+	
+	margin: 0 auto;
+}
+.cxsmall{
+	width: 219px;
+	height: 236px;
+	
+	float: left;
+	border-right: 1px solid #bebebe;
+	border-bottom: 1px solid #bebebe;
+}
+.cxtp{
+	width: 130px;
+	height: 130px;
+	margin-top: 25px;
+	margin-left: 45px;
+	
+}
+.cxwz{
+	width: 180px;
+	height: 40px;
+	margin-left: 20px;
+	 color:#333;
+	margin-top: 15px;
+	font-size: 12px;
+}
+.cxprice{
+	width: 100px;
+	height: 20px;
+	color:red;
+	margin-left: 20px;
+}
